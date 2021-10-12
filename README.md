@@ -2,7 +2,7 @@ English
 -----------------------------------------------
 - 👋 Hi, I’m Aysenur Yazıcı 👋
 - 👀 I’m interested in animes, coding, books, bujo, volleyball...
-- 🌱 I’m currently learning JavaScript, Korean, HTML, CSS and so on :) 
+- 🌱 I’m currently learning JavaScript, React, Korean, HTML, CSS and so on :) 
 - 💞️ I’m looking to collaborate on real life Front-end projects.
 - 📫 How to reach me ---> a.y.708708@gmail.com
 -----------------------------------------------
@@ -10,7 +10,7 @@ English
 -----------------------------------------------
 - 👋 안녕하세요! 저는 아이쉐누르 야즈즈입니다. 👋
 - 👀 저는 독서, 코딩, 부조 디자인 그리고 배구에 관심이 있습니다.
-- 🌱 저는 요즘에 한국어, JavaScript, HTML 그리고 CSS을 배우고 있습니다.
+- 🌱 저는 요즘에 한국어, JavaScript, React, HTML 그리고 CSS을 배우고 있습니다.
 - 💞️ 실제 프런트엔드 프로젝트에 대한 협업을 찾고 있습니다.
 - 📫 연락처 ---> a.y.708708@gmail.com
 <!---
